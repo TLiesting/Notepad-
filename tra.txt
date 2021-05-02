@@ -1,0 +1,213 @@
+AdoredByPope 3
+AgentPiety
+AgentPiety
+Ai_Boost
+Ai_Boost 2
+Ai_MoveFix
+AncillaryTeacher
+AssassinCatcher 3
+AssassinCareer 3
+AssassinMaster 3
+AssassinsGuildMember 2
+AssassinsGuildTrained
+Austere 3
+AuthHeirBoost
+Authoritarian 3
+BattleChivalry 5
+BattleScarred 4
+BattleScarred 4
+Berserker 3
+Brave 5
+BraveDiplomat 3
+BraveDiplomat 3
+BraveDiplomat 3
+BraveWoman 2
+CaptorChivalry 4
+Cheapskate 3
+Cheapskate 3
+ContentGeneral 3
+ContentGeneral 3
+CounterSpy 3
+CrusaderHistory 3
+Cultured 2
+DaughterofKingPrince
+Despoiler 3
+ChivalryLegacy 2
+DiplomatCareer 2
+Disciplinarian 3
+DivineProtection 3
+DivineProtectionPagan 3
+Dogmatic 3
+Eastern_Edu 3
+Eastern_Edu 3
+Educated_Authority 2
+Energetic 4
+Epicurean 3
+FactionKiller 4
+FactionKiller 4
+FactionKiller 4
+Factionheir
+FactionheirTO
+Factionleader
+FactionleaderTO
+FairWoman 3
+FaithfulWoman 3
+FathersLegacy 3
+Fertile 3
+FertileWoman 3
+Genocide 3
+Genocide 3
+GoodAdministrator 3
+GoodAssassin 5
+GoodBuilder 3
+GoodCavalryGeneral 3
+GoodCommander 5
+GoodConspirator 3
+GoodDenouncer 5
+GoodDiplomat 5
+GoodEngineer 3
+GoodFarmer 3
+GoodInfantryGeneral 3
+GoodMerchant 4
+GoodMiner 3
+GoodPrincess 4
+GoodSpy 5
+GoodTaxman 3
+GoodTrader 3
+GreedyRuler
+GreedyRulerGeneral
+GreedyRulerGeneral_add
+GreedyRulerWideSet_add
+GreedyRuler_add_1
+GreedyRuler_add_2
+Greek_Edu 3
+Gregarious 3
+HaleAndHearty 7
+Handsome 3
+HarseJustice 3
+HashashinsGuildMember 2
+HatesIslam 3
+HatesMoors 3
+HatesPagan 3
+Healed
+HeresyImmunityNonCatholic
+HighPersonalSecurity 3
+HorseRacer 3
+MerchantExoticPure
+MerchantSkills
+HousePrincess
+HumbleWoman 2
+IAmPrincess
+InspiringSpeaker 3
+Intelligent 3
+JihadHistory 3
+Just 3
+KindRuler 3
+KingsAuthority 9
+LogisticalSkill 3
+Loves_Father 2
+Loyal 4
+LoyaltyStarter
+MajorCount 9
+MarriedAPrincess
+MathematicsSkill
+MathematicsSkill 3
+MedicalSkill
+MerchantEnemies 2
+MerchantFamily 2
+Merchantfamily 2
+MerchantSkillsBonus_add
+MerchantSkillsWideSet_add
+MerchantSkills_add_1
+MerchantSkills_add_2
+MerchantsGuildMember 3
+MilitaryInclination
+Military_Career_In_Byzantium 10
+Military_Edu 4
+MinorRanksTO 2
+Miserly 3
+Missionary 3
+Monopolist 3
+Multilingual 3
+NaturalAiBoost 3
+NaturalAssassinSkill 3
+NaturalDiplomatSkill 3
+NaturalInquisitorSkill 3
+NaturalMerchantSkill 3
+NaturalMilitarySkill 4
+NaturalPriestSkill 3
+NaturalPrincess 3
+NaturalSpySkill 3
+Near_Loyalty 2
+NightBattleCapable
+Noctophilia 3
+Obedient 2
+PaganPriest
+PaganPriest 4
+Pagan_Edu 4
+PopesEnforcer 2
+Pragmatic 3
+PrettyWoman 3
+PriestLevel 3
+Prim 3
+Princess_Royal_Blood_Milanese
+PublicFaith 4
+Purifier 3
+Rabblerouser 4
+RansomChivalry 4
+ReligionStarter
+ReligiousActivity 4
+ReligiousTolerance 3
+Royal_Blood_Milanese
+Royal_Blood_Venetian
+Royal_Relation_Milanese
+Royal_Relation_Venetian
+RulerOfSicily
+RulerOfSicilyBonus
+Sailor 5
+Sane
+ScotlandHero
+ScotlandHero 3
+Scout 3
+Secretive 3
+SecureMerchant 2
+SecurityMerchant 2
+ShadyDealer 2
+SmoothTalker 3
+SpyCareer 3
+SpyMaster 3
+Stoic 3
+StrategyChivalry 5
+StrictlyReligiousGeneral_add
+StrictlyReligiousPriest_add
+StrictlyReligiousWideSet_add
+StrictlyReligious_add_1
+StrictlyReligious_add_2
+StrongFaith 4
+TheologiansGuildMember 2
+TheologiansGuildTrained
+ThievesGuildMember 2
+ThievesGuildTrained
+TolerantWoman 3
+TouchedByTheGods 3
+TourneyKnight 5
+Upright 3
+VendettaSet 20
+VictorVirtue 3
+Visit_Santiago
+Wantschool 6
+Western_Edu 3
+WideTraitSet
+WideTraitSet
+WifeIsCharming 3
+WifeIsFertile 3
+WifeIsNoble 3
+WifeIsWise 3
+WiseAdministrator
+WiseAdministratorWideSet_add
+WiseAdministrator_add_1
+WiseAdministrator_add_2
+WiseAdministrator_add_3
+WiseAdministrator_add_4
+WorldlyMerchant 2
+Xenophobia 3

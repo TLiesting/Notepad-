@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+html { 
+  background:  no-repeat center fixed; 
+  background-size: cover;
+  background-image: url("https://i.ibb.co/SdBMYyq/1ring.png"), radial-gradient(circle, #e6e6e6, #ffcc00, #992600); 
+  background-blend-mode: color-dodge;
+}
+		
+		
+	 
+ 
+h1 {
+  font-size: 35px;
+  line-height: 2;
+  text-decoration: overline;
+  text-shadow: 0 0 5px #FF0000;
+  letter-spacing: 3px;
+  font-family: Copperplate, Papyrus, fantasy;
+  word-spacing: 5px;
+  word-wrap: break-word;
+  text-align: center;
+  border-style: inset;
+  padding: em 1em;
+  border: 4px (#0081AB, 100%);
+  border-radius: 12px;
+  }
+h2{
+  font-size: 30px;
+  line-height: em;
+  text-decoration: underline;
+  text-shadow: 0 0 4px #FF0000;
+  letter-spacing: 3px;
+  font-family: Copperplate, Papyrus, fantasy;
+  word-spacing: 5px;
+  word-wrap: break-word;
+  text-align: center;
+  }
+h3{
+  font-size: 25px;
+  line-height: em;
+  text-decoration: none;
+  text-shadow: 0 0 3px #FF0000;
+  letter-spacing: 3px;
+  font-family: Copperplate, Papyrus, fantasy;
+  word-spacing: 5px;
+  word-wrap: break-word;
+  }
+
+p.a {
+  font-size: 25px;
+  line-height: 1;
+  text-align: center;
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-weight: 900;
+  letter-spacing: 4px;
+  word-spacing: 4px;
+  word-wrap: break-word;
+  grid-auto-rows: auto;
+  white-space: pre-wrap;
+  white-space: pre-line;
+  }
+p.b { 	
+font-size: 20px;
+line-height: 1;
+text-align: center;
+font-family: "Lucida Console", "Courier New", monospace;
+font-weight: 900;
+letter-spacing 4px;
+word-spacing 4px'
+word-wrap: break-word;
+grid-auto-rows: auto;
+white-space: pre-wrap;
+white-space: pre-line;
+}        
+#parB{
+font-size: 12px;
+line-height: em;
+text-align: center;
+font-family: "Lucida Console", "Courier New", monospace;
+font-weight: 300;
+letter-spacing 1px;
+word-spacing 2px'
+word-wrap: break-word;
+grid-auto-rows: auto;
+white-space: pre-wrap;
+white-space: pre-line;
+}
+  
+</style>
+</head>
+<body>
+<h1>Want that text inside those brackets\?</h1>
+<p class="a">[1]  \(Do you want *this* text\) to be                                          
+		[2]  over here? 
+		[3]  and _this_ text to be
+		[4]\[over here\]  </p>
+<strong><b>Then you have come to the right place</b></strong>
+<p class="parA">With this Regex you can __match text__ \(in\) and out of brackets\. __Swap text__ in the brackets with that outside of it\. Or even __change__ one\, the other or both __of them__\. or change the \[brackets\} for that matter\.
+I made this Redex because while playing the game Third Age Total War \(about Lord of the Rings\)
+		all the famous characters have some special trait\, but on their character page it's all displayed as Biography\. Doesn't matter if it is Boromir or Sauron\. all their special traits are called Biography\.
+		in the data file any text captured by \{\.\.\.\} is not displayed in game and any text outside of it is\. Simply changing the text inside \{\.\.\.\} would mess up so many other files because the game calculates movement and statistics with term\. as there are over 150 characters I was too lazy to do it manually so here is the Regex for it\.</p>
+<h2>The reason for this</h2>
+<p class="a">__This is a short example of that file__</p>
+<p class="parA">			<details>	<summary>Legolas</summary>
+	   \{Legolas\}Biography
+		\{Legolas_desc\}Legolas is the son of Thranduil\, King of the Woodland Realm of Northern Mirkwood\. Although he lives among the Silvan Elves\, Legolas is not strictly Silvan himself\. His father Thranduil originally came from Lindon\; he and his son are actually Sindar\, or \"Grey Elves\"\. A small minority of Sindar rules the predominantly Silvan Woodland Realm\.
+		\{Legolas_effects_desc\}Command \+10 General\'s Hit Points \+6 Personal Security \+2 Line of Sight \+3 Movement Points \+4 Ambush \+3 Loyalty \+6 Respect </details></p>
+- - -
+<h3>Then the RedeX magic happens</h3>
+<p class="parA">			<details>	<summary>Legolas</summary>
+	   \{Legolas\} *Legolas*
+		\{Legolas_desc\}Legolas is the son of Thranduil\, King of the Woodland Realm of Northern Mirkwood\. Although he lives among the Silvan Elves\, Legolas is not strictly Silvan himself\. His father Thranduil originally came from Lindon\; he and his son are actually Sindar\, or \"Grey Elves\"\. A small minority of Sindar rules the predominantly Silvan Woodland Realm\.
+		\{Legolas_effects_desc\}Command \+10 General\'s Hit Points \+6 Personal Security \+2 Line of Sight \+3 Movement Points \+4 Ambush \+3 Loyalty \+6 Respect </details></p>
+<p class="parB">And there we have it\, as you can see the code also leaves out the other entries of Legolas\. the Legolas\desc and Legolas\_effects\_desc</p>
+</div>
+</body>
+</html>
+
+
+https://drive.google.com/uc?export=view&id=1Dal1yMicNV114JY2u-Y7eC34nlO1y1P_

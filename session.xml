@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="1">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="984" startPos="0" endPos="0" selMode="0" offset="0" wrapCount="1" lang="XML" encoding="-1" userReadOnly="no" filename="D:\Games\Total war\M2 TW\mods\Divide_and_Conquer\data\descr_settlement_mechanics.xml" backupFilePath="" originalFileLastModifTimestamp="-759329536" originalFileLastModifTimestampHigh="30806190" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="0" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="14900" startPos="0" endPos="0" selMode="0" offset="0" wrapCount="1" lang="None (Normal Text)" encoding="-1" userReadOnly="no" filename="D:\Games\Total war\M2 TW\mods\Divide_and_Conquer\data\models_strat\textures\umbar_captain.tga" backupFilePath="" originalFileLastModifTimestamp="-676637184" originalFileLastModifTimestampHigh="30408003" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="81788928" mapWrapIndentMode="-1" mapIsWrap="no" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>

@@ -1,0 +1,48 @@
+
+********************************************************************************
+*                                                                              *
+*          ExtSettings plugin v1.2 for Notepad++                               *
+*          Builds for 32 and 64 bits Notepad++ installations available         *
+*                                                                              *
+*          Author: Andreas Heim, 2019                                          *
+*                                                                              *
+********************************************************************************
+
+
+
+============
+  Features
+============
+
+This plugin provides the ability to configure some Scintilla settings which are
+normally not available via the preferences dialog of Notepad++.
+
+It adds a button to the toolbar of Notepad++ to open its main dialog.
+
+Full functionality only is available in Notepad++ v7.7 and above. In earlier
+versions, there are some options that are not supported by the older version of
+Scintilla used there. They will be greyed out or invisible.
+
+
+
+
+===========
+  History
+===========
+
+v1.2 - September 2019
+~~~~~~~~~~~~~~~~~~~~~
+- enhanced: Added configuration of search match highlighting.
+
+
+v1.1 - September 2019
+~~~~~~~~~~~~~~~~~~~~~
+- enhanced: Added configuration of indentation guide lines style.
+- enhanced: Added configuration of white space indicator style and size.
+- enhanced: Added configuration of upper and lower line spacing.
+
+
+v1.0 - September 2019
+~~~~~~~~~~~~~~~~~~~~~
+- Initial release
+
