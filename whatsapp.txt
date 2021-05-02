@@ -1,0 +1,34 @@
+$ virtualenv .venv
+$ source .venv/bin/activate
+$ pip install -r requirements.txt
+
+
+Emojis
+U+1F9BF mechanical leg
+
+U+1F9D4 U+200D U+2640 U+FE0F Jesus
+U+1F9DC U+200D U+2640 U+FE0F Ariel
+U+1F9DE U+200D U+2642 U+FE0F Geest van alladin
+
+0U+1F43B U+200D U+2744 U+FE0F	Polar bear
+U+1F9A8 Stinkdier
+U+1F9A4	 dodo
+
+>12764 FE0F heart on fire 200D 1F525 FE0F<  heart on fire
+
+U+1F984 unicorn
+1F30C FE0F
+53
+1F30C FE0F
+1 moet aan begin
+F moet aan eind
+Zit de 1 er al? dan is het goed. niet gaantoevoegen. is er geen F aan het einde van de code dan is het een variant. voeg dan FE0F toe
+
+
+
+'```' <U+24C2 CIRCLED LATIN CAPITAL LETTER M, U+FE0F VS16> '```'
+
+1F513 FE0F
+U+1F513
+
+U+0123 LATIN SMALL LETTER G WITH CEDILLA
